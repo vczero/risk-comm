@@ -9,12 +9,13 @@ The paper is now online and available for readers. Paper link: https://doi.org/1
 The BibTeX is as follows:     
 ```bibtex
 @article{WANG2025105587,
-  title = {Government risk communication and response networks: Insights from typhoon news in China},
-  journal = {International Journal of Disaster Risk Reduction},
-  pages = {105587},
-  year = {2025},
-  issn = {2212-4209},
-  doi = {https://doi.org/10.1016/j.ijdrr.2025.105587},
-  author = {Lihua Wang and Shengyi Jiang}
+title = {Government risk communication and response networks: Insights from typhoon news in China},
+journal = {International Journal of Disaster Risk Reduction},
+volume = {126},
+pages = {105587},
+year = {2025},
+doi = {https://doi.org/10.1016/j.ijdrr.2025.105587},
+author = {Lihua Wang and Shengyi Jiang},
+keywords = {Response network, Risk communication, Network analysis, Social media, LLMs}
 }
 ```
