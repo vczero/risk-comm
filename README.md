@@ -19,3 +19,12 @@ author = {Lihua Wang and Shengyi Jiang},
 keywords = {Response network, Risk communication, Network analysis, Social media, LLMs}
 }
 ```
+
+
+### Recommended Icon Libraries and Resources:
+
+- https://yesicon.app/
+- https://www.iconfont.cn/
+- https://iconpark.oceanengine.com/home
+
+These platforms offer a wide selection of icons of high quality and are valuable resources for design and development. We sincerely thank all contributors to open source, including independent developers and organizations, for their important contributions to technology and society.
